@@ -1,0 +1,32 @@
+{
+  "name": "dodgy-dave",
+  "version": "1.0.0",
+  "description": "A AI based stock prediction app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhijit105/dogdy-dave.git"
+  },
+  "keywords": [
+    "ai",
+    "openai",
+    "javascript"
+  ],
+  "author": "Abhijit Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abhijit105/dogdy-dave/issues"
+  },
+  "homepage": "https://github.com/Abhijit105/dogdy-dave#readme",
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "openai": "^6.32.0"
+  }
+}
